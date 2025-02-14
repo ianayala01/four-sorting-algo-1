@@ -1,0 +1,43 @@
+body{
+margin:0;
+text-align: center;
+font-family: "Inter", serif;
+font-optical-sizing: auto;
+font-weight: 400;
+font-style: normal;
+background-color: #0D0208;
+color: #008f11;
+text-shadow: #00ff41 0 0 1px;
+}
+
+.algorithm{
+    text-align: left;
+    font-family: "Inter", serif;
+font-optical-sizing: auto;
+font-weight: 400;
+font-style: normal;
+border: 1px solid #008f11;
+border-radius: 10px;
+margin: 10px;
+padding: 10px; 
+}
+
+.language-javascript{
+    font-family: "Source Code Pro", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #00ff41;
+}
+
+footer{
+    padding: 7px;
+    background: #52247f;
+    color: #ffcf01;
+    font-weight: bold;
+    margin: 20px , 0 , 0 , 0;
+}
+
+.underline{
+    border-bottom: 2px solid #008f11;
+}
